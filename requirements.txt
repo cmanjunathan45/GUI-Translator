@@ -1,0 +1,5 @@
+tkinter
+googletrans
+textblob 
+text_to_speech
+webbrowser
